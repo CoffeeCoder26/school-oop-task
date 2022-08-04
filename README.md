@@ -1,1 +1,1 @@
-# School Project Using java oop
+# School task by java oop concepts
